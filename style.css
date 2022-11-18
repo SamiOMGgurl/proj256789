@@ -1,0 +1,39 @@
+body
+{
+    background: url("https://i.pinimg.com/originals/eb/bc/e1/ebbce197279627b8e02e7aa893739dba.jpg");
+    background-size: contain;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#pic1
+{
+    width : 25%;
+    height : 30%;
+}
+#pic2
+{
+    width : 25%;
+    height : 30%;
+}
+#pic3
+{
+    width : 25%;
+    height : 30%;
+}
